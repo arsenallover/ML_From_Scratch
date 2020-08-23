@@ -1,3 +1,7 @@
-Documents/AnomalyDetection_LitSurvey1.pdf
-Documents/AnomalyDetection_LitSurvey.pdf
-Documents/AnomalyDetection_LitSurvey2.pdf
+Documents
+ISLR-Python
+.ipynb_checkpoints
+.vscode
+Clustering_Retrieval/KMeans/Data/people_wiki.csv
+Classification/Boosting/Data/lending-club-data.csv
+

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\Machine-Learning-Specialization-UW-master"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\UW"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Documents\\Project\\OBMS\\PVA"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Documents\\Project\\Arbit\\Courses\\AGeron_HandsOnML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\PanduranganR\\Anaconda3\\python.exe"
+	}
+}
